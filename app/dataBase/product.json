@@ -1,0 +1,23 @@
+[
+  {
+    "id": 10,
+    "productName": "táo tàu",
+    "price": 20,
+    "productImage": "https://media.istockphoto.com/id/1291262112/photo/banana.jpg?s=612x612&w=0&k=20&c=Na8FBcsTuhCRyuWLmbCV1FwOkvWLWFeVfQT-pd6tXk8=",
+    "quantity": 2
+  },
+  {
+    "id": 11,
+    "productName": "chuối",
+    "price": 30,
+    "productImage": "https://media.istockphoto.com/id/1291262112/photo/banana.jpg?s=612x612&w=0&k=20&c=Na8FBcsTuhCRyuWLmbCV1FwOkvWLWFeVfQT-pd6tXk8=",
+    "quantity": 5
+  },
+  {
+    "id": 12,
+    "productName": "táo",
+    "price": 20,
+    "productImage": "https://media.istockphoto.com/id/1291262112/photo/banana.jpg?s=612x612&w=0&k=20&c=Na8FBcsTuhCRyuWLmbCV1FwOkvWLWFeVfQT-pd6tXk8=",
+    "quantity": 2
+  }
+]
